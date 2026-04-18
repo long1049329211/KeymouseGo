@@ -1,0 +1,5 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Collecting json5
+  Using cached https://pypi.tuna.tsinghua.edu.cn/packages/b8/42/cf027b4ac873b076189d935b135397675dac80cb29acb13e1ab86ad6c631/json5-0.14.0-py3-none-any.whl (36 kB)
+Installing collected packages: json5
+Successfully installed json5-0.14.0
