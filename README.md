@@ -41,7 +41,10 @@
 
 # 安装
 
-该软件通过 `Python` 语言编写，已打包为可执行文件，未安装 `Python` 的用户可直接下载 [release](https://github.com/taojy123/LingV1.0/releases) 版本 ，直接点击 `LingV1.0` 运行
+该软件通过 `Python` 语言编写，源码有github社区大佬提供（找不到源路径了），我对源码基础做以下改动
+1、维护到了支持python3.14版的包和依赖
+2、添加了打包脚本.dat
+3、上传了打包后的可执行文件
 
 ### 源码打包可执行文件
 
@@ -144,20 +147,7 @@ chmod -R 770 ~/.qt_material
 ```
 
 
-## 高级功能
-
-功能的使用详见[wiki](https://github.com/taojy123/LingV1.0/wiki/文档#脚本语法)
-
-
-# 关于作者
-
-我是陶佳元，热爱代码，怀旧，在互联网上常用的 ID 有 taojy123 、tao.py。
-
-我的个人站点 [tslow.cn](https://tslow.cn) 整理并罗列了一些 `个人项目` 和 `小工具` 合集。
-
-你可以在 [简书](http://jianshu.tslow.cn) 浏览我最新发布的文章，还可以在 [B站](https://space.bilibili.com/145137942) 观看我的技术分享和生活纪实。
-
-我的邮箱: taojy123@163.com
+声明：如有侵权处请联系删除，只对适配做了调整框架与源作者开发的不变
 
 ----------------------
 
